@@ -1,4 +1,4 @@
-# 📸 Photo Fusion  (htmlcss)
+# 📸 Photo Fusion  (miniproject)
 
 Photo Fusion is a **photo gallery application** built using only **HTML and CSS**.  
 It is designed with a clean and modern interface to showcase photos in an organized and visually appealing way.  
