@@ -5,6 +5,12 @@ It is designed with a clean and modern interface to showcase photos in an organi
 
 ---
 
+## 📘 Learning Reference  
+This project was created as part of my **Web Development learning journey**.  
+I built it while practicing concepts learned from **Apna College**.
+
+--- 
+
 ## ✨ Features  
 - 🖼️ Beautifully styled photo gallery layout  
 - 🎨 Modern and aesthetic design  
